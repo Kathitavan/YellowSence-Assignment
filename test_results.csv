@@ -1,0 +1,21 @@
+File Name,Category,Passed,Score,Blur,Is Blurry,Bright,Too Dark,Too Bright,Glare,Has Glare,ROI,ROI Complete,Ridge,Ridges Clear,Time (ms),SLA Compliant,Guidance
+blur_01.jpg,blurry,False,67.4,0.71,True,62.88,False,False,0.0,False,0.3446,True,1378.14,True,95.96,True,Image is too blurry — hold steady and refocus
+blur_02.jpg,blurry,False,67.5,0.73,True,62.94,False,False,0.0,False,0.3451,True,1381.27,True,31.27,True,Image is too blurry — hold steady and refocus
+blur_03.jpg,blurry,False,67.5,0.81,True,62.88,False,False,0.0,False,0.3446,True,1376.77,True,35.77,True,Image is too blurry — hold steady and refocus
+blur_04.jpg,blurry,False,67.4,0.71,True,62.88,False,False,0.0,False,0.3446,True,1378.14,True,42.6,True,Image is too blurry — hold steady and refocus
+blur_05.jpg,blurry,False,67.5,0.73,True,62.94,False,False,0.0,False,0.3451,True,1381.27,True,45.48,True,Image is too blurry — hold steady and refocus
+dark_01.jpg,dark,False,85.9,70.66,False,18.21,True,False,0.0,False,0.3288,True,193.96,True,45.64,True,Image is too dark — increase ambient lighting
+dark_02.jpg,dark,False,86.0,81.86,False,18.21,True,False,0.0,False,0.3298,True,195.06,True,65.73,True,Image is too dark — increase ambient lighting
+dark_03.jpg,dark,False,85.9,73.38,False,18.21,True,False,0.0,False,0.3281,True,128.24,True,58.96,True,Image is too dark — increase ambient lighting
+dark_04.jpg,dark,False,89.6,52.91,False,216.85,False,True,0.0,False,0.8514,True,596.62,True,43.57,True,Image is too bright — reduce direct light
+dark_05.jpg,dark,False,89.6,52.91,False,216.85,False,True,0.0,False,0.8514,True,596.62,True,38.95,True,Image is too bright — reduce direct light
+glare_01.jpg,glare,False,77.5,232.08,False,72.63,False,False,0.0803,True,0.3315,True,3564.84,True,49.12,True,Glare detected — tilt camera to avoid specular reflection
+glare_02.jpg,glare,False,77.3,251.05,False,74.03,False,False,0.0908,True,0.3254,True,3944.09,True,56.45,True,Glare detected — tilt camera to avoid specular reflection
+glare_03.jpg,glare,False,76.9,268.16,False,75.4,False,False,0.1018,True,0.3158,True,4067.57,True,44.26,True,Glare detected — tilt camera to avoid specular reflection
+glare_04.jpg,glare,False,76.5,265.34,False,76.94,False,False,0.1134,True,0.3061,True,4204.99,True,49.45,True,Glare detected — tilt camera to avoid specular reflection
+glare_05.jpg,glare,False,76.0,290.95,False,78.59,False,False,0.1257,True,0.2937,True,4644.36,True,38.77,True,Glare detected — tilt camera to avoid specular reflection
+good_01.jpg,good,True,92.3,102.75,False,62.87,False,False,0.0,False,0.3485,True,1725.69,True,34.71,True,Good capture — ready for processing.
+good_02.jpg,good,True,92.3,112.14,False,62.94,False,False,0.0,False,0.3489,True,1870.76,True,26.99,True,Good capture — ready for processing.
+good_03.jpg,good,True,92.3,107.12,False,62.88,False,False,0.0,False,0.349,True,1742.26,True,36.71,True,Good capture — ready for processing.
+good_04.jpg,good,True,92.3,102.75,False,62.87,False,False,0.0,False,0.3485,True,1725.69,True,32.8,True,Good capture — ready for processing.
+good_05.jpg,good,True,92.3,112.14,False,62.94,False,False,0.0,False,0.3489,True,1870.76,True,35.61,True,Good capture — ready for processing.
